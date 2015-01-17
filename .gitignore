@@ -5,7 +5,8 @@
 ._*
 Icon
 
-
+# rubymine
+.idea
 
 # ruby
 *.gem
